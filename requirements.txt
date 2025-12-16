@@ -1,0 +1,9 @@
+PySide6==6.7.0
+opencv-python
+numpy
+sounddevice
+soundfile
+openpyxl
+imageio
+imageio-ffmpeg
+webrtcvad
